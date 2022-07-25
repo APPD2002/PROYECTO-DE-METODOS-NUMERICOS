@@ -22,4 +22,5 @@ En este link se pueden descargar las librerias de forma manual o con **pip insta
 https://pypi.org/
 
 Se necesito de Python en su ultima version, que fue la 3.10
+
 Se trabajo bajo el editor de codigo Visual Studio Code, funciona correctamente tambien en Jupyter Notebook, las librerias se deben instalar en anaconda usando este editor. 
