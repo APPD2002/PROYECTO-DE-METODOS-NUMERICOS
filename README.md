@@ -25,6 +25,6 @@ Se necesito de Python en su ultima version, que fue la 3.10
 
 Se trabajo bajo el editor de codigo Visual Studio Code, funciona correctamente tambien en Jupyter Notebook, las librerias se deben instalar en anaconda usando este editor. 
 
-**La version LITE del proyecto sin necesidad de instalar librerias se la puede observar en Colab de Google**
+**La version LITE del proyecto sin necesidad de instalar Python y librerias se la puede observar en Colab de Google**
 https://colab.research.google.com/drive/1z0lXN-kgPV7BZnW23KKvQjSB2g9hrYn1?usp=sharing
 Mencionar que algunas funcionalidades innovadoras estan suprimidas, ya que Colab no permite instalar ciertas librerias. 
