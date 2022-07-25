@@ -17,6 +17,8 @@ Proyecto sobre Encriptación de Mensajes usando métodos numéricos y aplicando 
 
 5.- PyAudio (Permite usar el microfono) 
 
+6.- Keyboard (Permite trabajar con eventos del teclado)
+
 En este link se pueden descargar las librerias de forma manual o con **pip install**
 
 https://pypi.org/
