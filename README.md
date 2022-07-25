@@ -30,3 +30,7 @@ Se trabajo bajo el editor de codigo Visual Studio Code, funciona correctamente t
 **La version LITE del proyecto sin necesidad de instalar Python y librerias se la puede observar en Colab de Google**
 https://colab.research.google.com/drive/1z0lXN-kgPV7BZnW23KKvQjSB2g9hrYn1?usp=sharing
 Mencionar que algunas funcionalidades innovadoras estan suprimidas, ya que Colab no permite instalar ciertas librerias. 
+
+**El resultado final se puede observar en el siguiente video: **
+
+https://youtu.be/8bnMYIF7Qhg
